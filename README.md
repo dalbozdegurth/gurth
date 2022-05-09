@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gurth
+- 👀 I’m interested in Web3, OSINT and Django
+- 🌱 I’m currently learning Solidity and smart contracts
+- 📫 You can reach me on twitter @DalbozDeGurth
